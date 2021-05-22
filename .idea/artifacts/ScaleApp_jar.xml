@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ScaleApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScaleApp_jar</output-path>
+    <root id="archive" name="ScaleApp.jar">
+      <element id="module-output" name="ScaleApp" />
+    </root>
+  </artifact>
+</component>
